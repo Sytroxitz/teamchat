@@ -1,0 +1,5 @@
+name: TeamChat
+version: v1.3.2
+main: net.sytroxitz.teamchat.main
+author: Sytroxitz
+description: A TeamChat Plugin for BungeeCord!
